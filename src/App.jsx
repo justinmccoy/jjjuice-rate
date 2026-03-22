@@ -34,37 +34,6 @@ const chilies = [
     profileCode: "F8-S2-A7"
   },
   { 
-    name: "Mulato", 
-    aka: "Dried Brown Poblano", 
-    color: "#2d1200",
-    image: "https://www.moreldistribution.com/cdn/shop/products/driedmulatopepperchilemulatobulk_800x.jpg",
-    knownRatings: {
-      flavorDepth: 5,
-      earthiness: 4,
-      fruitiness: 3,
-      smokiness: 3,
-      sweetness: 3,
-      heatLevel: 2,
-      colorRating: 5,
-    },
-    scoville: [2500, 3000],
-    flavorNotes: ["Licorice", "Chocolate", "Tobacco", "Cherry"],
-    bodyDesc: "Darker and more complex than the ancho. Often confused with it, but has a distinct licorice undertone and deeper, more brooding flavor.",
-    bestFor: ["Mole negro", "Complex stews", "Braising liquid"],
-    rehydrateMethod: {
-      water: "180°F (82°C)",
-      onHeat: "8 min simmer, then 20–25 min off heat",
-      offHeat: "30–35 min steep in hot water"
-    },
-    rehydrateTip: "Needs longer soaking than ancho. Scrape the inner flesh — the skin can be tough even when rehydrated.",
-    aromaStages: {
-      dry: "Dark chocolate, slight ash",
-      soaking: "Licorice and cherry unfold",
-      rehydrated: "Complex tobacco, coffee, smoke"
-    },
-    profileCode: "F8-S2-A8"
-  },
-  { 
     name: "Pasilla", 
     aka: "Chile Negro", 
     color: "#1e0a00",
